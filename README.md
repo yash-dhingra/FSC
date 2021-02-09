@@ -11,7 +11,7 @@ In order for you to use this program you must have the following installed on yo
 3. Numpy
 4. Pynput
 
-Ensure that you have downloaded both the python (MainHGC.py) and the XML(Haarcascade) file. Note* I do not own the haarcascade nor have created it, you may download it from anywhere but do note that you might need to change the values (Detect Multi Scale) accordingly. 
+Ensure that you have downloaded both the python (MainFGC.py) and the XML(Haarcascade) file. Note* I do not own the haarcascade nor have created it, you may download it from anywhere but do note that you might need to change the values (Detect Multi Scale) accordingly. 
 
 Make sure you have dowloaded all the necessary files.
 
