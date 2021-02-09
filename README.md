@@ -17,7 +17,7 @@ Make sure you have dowloaded all the necessary files.
 
 After extracting the files, follow these steps-
 1. Ensure that all the content is in the same folder.
-2. Open MainHGC.py
+2. Open MainFGC.py
 3. Then delete the XML file path(7th Line) and replace it with your XML(Hand.xml) file path you just downloaded.
 4. Huzza! Now all that's left is to run the Program in the backgroud and open the game(Example T-rex(Chrome Game)).
 Note* Ensure that the camera window is visible on the screen 
